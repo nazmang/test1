@@ -1,0 +1,6 @@
+debug/
+pass*
+.env
+*.log
+.env*
+*.tfvars
